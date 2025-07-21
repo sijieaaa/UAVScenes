@@ -3,7 +3,7 @@
 # UAVScenes 
 UAVScenes: UAVScenes: A Multi-Modal Dataset for UAVs
 
-[arXiv] [ICCV 2025]
+[[arXiv]]()  [[ICCV 2025]]()
 
 We introduce UAVScenes, a large-scale dataset designed to benchmark various tasks across both 2D and 3D modalities. Our benchmark dataset is built upon the well-calibrated multi-modal UAV dataset MARS-LVIG, originally developed only for simultaneous localization and mapping (SLAM). We enhance this dataset by providing manually labeled semantic annotations for both images and LiDAR point clouds, along with accurate 6-degree-of-freedom (6-DoF) poses. These additions enable a wide range of UAV perception tasks, including detection, segmentation, depth estimation, 6-DoF localization, place recognition, and novel view synthesis (NVS). To the best of our knowledge, this is the first UAV benchmark dataset to offer both image and LiDAR point cloud semantic annotations (120k labeled pairs), with the potential to advance multi-modal UAV perception research. 
 <div style="text-align:center;">
@@ -17,8 +17,8 @@ We introduce UAVScenes, a large-scale dataset designed to benchmark various task
 - We use [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) for 2D annotating, [CloudCompare](https://www.danielgm.net/cc/) for 3D annotating, and [DJI Terra (大疆智图)](https://enterprise.dji.com/dji-terra) for 3D reconstruction.
 
 - We include 
-    - Hikvision camera images
-    - Livox Avia LiDAR point clouds
+    - Hikvision camera images with annotations
+    - Livox Avia LiDAR point clouds with annotations
     - 6-DoF poses 
     
 - More sensor and scene information can be found from [MARS-LVIG](https://mars.hku.hk/dataset.html).
