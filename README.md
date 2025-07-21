@@ -32,6 +32,8 @@ We introduce UAVScenes, a large-scale dataset designed to benchmark various task
 
 
 ## Download
+We provide both the full dataset (interval=1) and the key-frame only dataset (interval=5, 1/5 size).
+
 UAVScenes has been uploaded onto various cloud platforms.
 - [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/wang1679_e_ntu_edu_sg/EgY6DU5GBchIiAIa-eQZmEAB0vJx3khCPHbFW3LnR77RFw?e=26GaSc)
 - [Google Drive](https://drive.google.com/drive/folders/1HSJWc5qmIKLdpaS8w8pqrWch4F9MHIeN?usp=sharing)
