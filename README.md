@@ -39,7 +39,7 @@ UAVScenes has been uploaded onto various cloud platforms.
 </div>
 
 
-- UAVScenes consists of 4 large scenes (AMtown, AMvalley, HKairport, HKisland). Each scene consists of multiple runs (e.g., 01, 02, and 03).
+- UAVScenes consists of 4 large scenes (AMtown, AMvalley, HKairport, and HKisland). Each scene consists of multiple runs (e.g., 01, 02, and 03).
 <div style="text-align:center;">
   <img src="./pics/summary.png" alt="pic" style="width:100%; height:auto;">
 </div>
