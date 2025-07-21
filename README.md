@@ -11,6 +11,16 @@ We introduce UAVScenes, a large-scale dataset designed to benchmark various task
 </div>
 
 
+## Download
+We provide both the full dataset (interval=1) and the key-frame only dataset (interval=5, 1/5 size).
+
+UAVScenes has been uploaded onto various cloud platforms.
+- [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/wang1679_e_ntu_edu_sg/EgY6DU5GBchIiAIa-eQZmEAB0vJx3khCPHbFW3LnR77RFw?e=26GaSc)
+- [Google Drive](https://drive.google.com/drive/folders/1HSJWc5qmIKLdpaS8w8pqrWch4F9MHIeN?usp=sharing)
+- [Baidu/百度网盘](https://pan.baidu.com/s/13CgnxRFqevQ8Fa1Y3dkM0A?pwd=1679)
+
+
+
 ## Dataset Overview
 - UAVScenes is built based on [MARS-LVIG](https://mars.hku.hk/dataset.html). Thanks for their excellent work.
 
@@ -29,17 +39,10 @@ We introduce UAVScenes, a large-scale dataset designed to benchmark various task
 </div>
 
 
-
-
-## Download
-We provide both the full dataset (interval=1) and the key-frame only dataset (interval=5, 1/5 size).
-
-UAVScenes has been uploaded onto various cloud platforms.
-- [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/wang1679_e_ntu_edu_sg/EgY6DU5GBchIiAIa-eQZmEAB0vJx3khCPHbFW3LnR77RFw?e=26GaSc)
-- [Google Drive](https://drive.google.com/drive/folders/1HSJWc5qmIKLdpaS8w8pqrWch4F9MHIeN?usp=sharing)
-- [Baidu/百度网盘](https://pan.baidu.com/s/13CgnxRFqevQ8Fa1Y3dkM0A?pwd=1679)
-
-
+- UAVScenes consists of 4 large scenes (AMtown, AMvalley, HKairport, HKisland). Each scene consists of multiple runs (e.g., 01, 02, and 03).
+<div style="text-align:center;">
+  <img src="./pics/summary.png" alt="pic" style="width:100%; height:auto;">
+</div>
 
 
 
