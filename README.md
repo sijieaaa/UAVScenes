@@ -1,7 +1,7 @@
 
 
 # UAVScenes 
-UAVScenes: UAVScenes: A Multi-Modal Dataset for UAVs
+(ICCV 2025) UAVScenes: A Multi-Modal Dataset for UAVs
 
 [[arXiv]]()  [[ICCV 2025]]()
 
