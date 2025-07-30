@@ -19,18 +19,18 @@ UAVScenes has been uploaded onto various cloud platforms.
 - [Google Drive](https://drive.google.com/drive/folders/1HSJWc5qmIKLdpaS8w8pqrWch4F9MHIeN?usp=sharing)
 - [Baidu/百度网盘](https://pan.baidu.com/s/13CgnxRFqevQ8Fa1Y3dkM0A?pwd=1679)
 
-
+We currently include:
+- Hikvision camera images with annotations
+- Livox Avia LiDAR point clouds with annotations
+- 6-DoF poses
+- Reconstructed 3D point cloud/mesh maps 
+    
 
 ## Dataset Overview
 - UAVScenes is built based on [MARS-LVIG](https://mars.hku.hk/dataset.html). Thanks for their excellent work.
 
 - We use [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) for 2D annotating, [CloudCompare](https://www.danielgm.net/cc/) for 3D annotating, and [DJI Terra (大疆智图)](https://enterprise.dji.com/dji-terra) for 3D reconstruction.
 
-- We include 
-    - Hikvision camera images with annotations
-    - Livox Avia LiDAR point clouds with annotations
-    - 6-DoF poses 
-    
 - More sensor and scene information can be found from [MARS-LVIG](https://mars.hku.hk/dataset.html).
 
 <!-- ![pic](./pics/dji_m300.png) -->
