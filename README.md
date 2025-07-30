@@ -25,6 +25,9 @@ We currently include:
 - 6-DoF poses
 - Reconstructed 3D point cloud/mesh maps 
     
+Color mapping is in `cmap.py`. 
+Camera-LiDAR calibrations are in `calibration_results.py`.
+Camera-3D map calibrations are in `sampleinfos_interpolated.json`.
 
 ## Dataset Overview
 - UAVScenes is built based on [MARS-LVIG](https://mars.hku.hk/dataset.html). Thanks for their excellent work.
