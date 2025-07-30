@@ -56,4 +56,4 @@ Under preparing. Please stay tuned.
 
 
 ## License
-This work is available under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) and is meant for academic use only. If you wish to use the dataset for commercial purposes, please get in touch with us.
+This work is available under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) and is meant for academic use only. 
