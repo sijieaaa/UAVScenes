@@ -53,7 +53,15 @@ Camera-3D map calibrations are in `sampleinfos_interpolated.json`.
 Under preparing. Please stay tuned.
 
 ## Citation
-
+```
+@article{Wang2025UAVScenes,
+  title = {UAVScenes: A Multi‑Modal Dataset for UAVs},
+  author = {Wang, Sijie and Li, Siqi and Zhang, Yawei and Yu, Shangshu and Yuan, Shenghai and She, Rui and Guo, Quanjiang and Zheng, JinXuan and Howe, Ong Kang and Chandra, Leonrich and Srijeyan, Shrivarshann and Sivadas, Aditya and Aggarwal, Toshan and Liu, Heyuan and Zhang, Hongming and Chen, Chujie and Jiang, Junyu and Xie, Lihua and Tay, Wee Peng},
+  journal = {arXiv preprint arXiv:2507.22412},
+  year = {2025},
+  url = {https://arxiv.org/abs/2507.22412}
+}
+```
 
 ## License
 This work is available under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) and is meant for academic use only. 
