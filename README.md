@@ -32,7 +32,7 @@ Camera-3D map calibrations are in `sampleinfos_interpolated.json`.
 ## Dataset Overview
 - UAVScenes is built based on [MARS-LVIG](https://mars.hku.hk/dataset.html). Thanks for their excellent work.
 
-- We use [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) for 2D annotating, [CloudCompare](https://www.danielgm.net/cc/) for 3D annotating, and [DJI Terra (大疆智图)](https://enterprise.dji.com/dji-terra) for 3D reconstruction.
+- We use [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) for 2D annotating, [CloudCompare](https://www.danielgm.net/cc/) for 3D annotating, and [DJI Terra (大疆智图)](https://enterprise.dji.com/dji-terra) for 3D reconstruction (much accurate than COLMAP).
 
 - More sensor and scene information can be found from [MARS-LVIG](https://mars.hku.hk/dataset.html).
 
