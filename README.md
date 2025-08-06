@@ -6,10 +6,8 @@
 [[arXiv]](http://arxiv.org/abs/2507.22412)  [ICCV 2025]
 
 We introduce UAVScenes, a large-scale dataset designed to benchmark various tasks across both 2D and 3D modalities. Our benchmark dataset is built upon the well-calibrated multi-modal UAV dataset MARS-LVIG, originally developed only for simultaneous localization and mapping (SLAM). We enhance this dataset by providing manually labeled semantic annotations for both images and LiDAR point clouds, along with accurate 6-degree-of-freedom (6-DoF) poses. These additions enable a wide range of UAV perception tasks, including detection, segmentation, depth estimation, 6-DoF localization, place recognition, and novel view synthesis (NVS). To the best of our knowledge, this is the first UAV benchmark dataset to offer both image and LiDAR point cloud semantic annotations (120k labeled pairs), with the potential to advance multi-modal UAV perception research. 
-<div style="text-align:center;">
-  <img src="./pics/supp_demo.png" alt="pic" style="width:90%; height:auto;">
-</div>
 
+<img src="https://github.com/sijieaaa/UAVScenes/raw/main/pics/supp_demo.png"  alt="pic" style="width:80%; height:auto;">
 
 ## Download
 We provide both the full dataset (interval=1) and the key-frame only dataset (interval=5, 1/5 size). <br>
@@ -41,17 +39,11 @@ Camera-3D map calibrations are in `sampleinfos_interpolated.json`. <br>
 
 - More sensor and scene information can be found from [MARS-LVIG](https://mars.hku.hk/dataset.html).
 
-<!-- ![pic](./pics/dji_m300.png) -->
-<div style="text-align:center;">
-  <img src="./pics/dji_m300.png" alt="pic" style="width:50%; height:auto;">
-</div>
-
+<img src="https://github.com/sijieaaa/UAVScenes/raw/main/pics/dji_m300.png"  alt="pic" style="width:50%; height:auto;">
 
 - UAVScenes consists of 4 large scenes (AMtown, AMvalley, HKairport, and HKisland). Each scene consists of multiple runs (e.g., 01, 02, and 03).
-<div style="text-align:center;">
-  <img src="./pics/summary.png" alt="pic" style="width:100%; height:auto;">
-</div>
 
+<img src="https://github.com/sijieaaa/UAVScenes/raw/main/pics/summary.png"  alt="pic" style="width:80%; height:auto;">
 
 
 ## Baseline Code
