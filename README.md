@@ -15,6 +15,7 @@ UAVScenes has been uploaded onto various cloud platforms.
 - [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/wang1679_e_ntu_edu_sg/EgY6DU5GBchIiAIa-eQZmEAB0vJx3khCPHbFW3LnR77RFw?e=26GaSc)
 - [Google Drive](https://drive.google.com/drive/folders/1HSJWc5qmIKLdpaS8w8pqrWch4F9MHIeN?usp=sharing)
 - [Baidu/百度网盘](https://pan.baidu.com/s/13CgnxRFqevQ8Fa1Y3dkM0A?pwd=1679) (interval=5 only)
+- [HuggingFace](https://huggingface.co/datasets/sijieaaa/UAVScenes) (interval=5 only)
 
 We currently include:
 - Hikvision camera images with annotations
