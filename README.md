@@ -24,10 +24,16 @@ We currently include:
 - Livox Avia LiDAR point clouds with annotations
 - 6-DoF poses
 - Reconstructed 3D point cloud/mesh maps 
-    
+
+## File Information
 Color mapping is in `cmap.py`. 
 Camera-LiDAR calibrations are in `calibration_results.py`.
 Camera-3D map calibrations are in `sampleinfos_interpolated.json`.
+
+`terra_ply/` contains the raw mesh map outputs from Terra, which contains multiple mesh blocks.
+`cloud_merged.ply` contains the raw point cloud map outputs from Terra.
+`Mesh.ply` is built by merging all mesh blocks from `terra_ply/` together.
+
 
 ## Dataset Overview
 - UAVScenes is built based on [MARS-LVIG](https://mars.hku.hk/dataset.html). Thanks for their excellent work.
