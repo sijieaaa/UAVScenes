@@ -24,9 +24,9 @@ We currently include:
 - Reconstructed 3D point cloud/mesh maps 
 
 ## File Information
-Color mapping is in `cmap.py`. <br>
-Camera-LiDAR calibrations are in `calibration_results.py`. <br>
-Camera-3D map calibrations are in `sampleinfos_interpolated.json`. <br>
+`cmap.py` contains color-ID mapping. <br>
+`calibration_results.py` contains camera-LiDAR calibrations. <br>
+`sampleinfos_interpolated.json` contains camera-3D map calibrations. <br>
 
 `terra_ply/` contains the raw mesh map outputs from Terra, which contains multiple mesh blocks. <br>
 `cloud_merged.ply` contains the raw point cloud map outputs from Terra. <br>
