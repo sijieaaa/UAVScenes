@@ -17,7 +17,7 @@ UAVScenes has been uploaded onto various cloud platforms.
 - [Baidu/百度网盘](https://pan.baidu.com/s/13CgnxRFqevQ8Fa1Y3dkM0A?pwd=1679) (interval=5 only)
 - [HuggingFace](https://huggingface.co/datasets/sijieaaa/UAVScenes) (interval=5 only)
 
-⚠️ If you face any download problems, kindly please raise an issue with screenshots. We will fix them ASAP🙂.
+⚠️ If you face any download problems, kindly please raise an [issue](https://github.com/sijieaaa/UAVScenes/issues/new) with screenshots. We will fix them ASAP🙂.
 
 We currently include:
 - Hikvision camera images with annotations
