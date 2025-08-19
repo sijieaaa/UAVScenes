@@ -26,6 +26,8 @@ We currently include:
 - Reconstructed 3D point cloud/mesh maps 
 
 ## File Information
+`interval1_CAM_LIDAR` contains camera images, LiDAR point clouds, 6-DoF poses, and calibrations.
+
 `cmap.py` contains color-ID mapping. <br>
 `calibration_results.py` contains camera-LiDAR calibrations. <br>
 `sampleinfos_interpolated.json` contains camera-3D map calibrations. <br>
