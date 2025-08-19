@@ -27,6 +27,8 @@ We currently include:
 
 ## File Information
 `interval1_CAM_LIDAR` contains camera images, LiDAR point clouds, 6-DoF poses, and calibrations.
+`interval1_CAM_label` contains camera semantic annotations.
+`interval1_LIDAR_label` contains LiDAR semantic annotations.
 
 `cmap.py` contains color-ID mapping. <br>
 `calibration_results.py` contains camera-LiDAR calibrations. <br>
