@@ -29,6 +29,7 @@ We currently include:
 `interval1_CAM_LIDAR` contains camera images, LiDAR point clouds, 6-DoF poses, and calibrations. <br>
 `interval1_CAM_label` contains camera semantic annotations. <br>
 `interval1_LIDAR_label` contains LiDAR semantic annotations. <br>
+`terra_3dmap_pointcloud_mesh` contains 3D mesh/point cloud maps. <br>
 
 `cmap.py` contains color-ID mapping. <br>
 `calibration_results.py` contains camera-LiDAR calibrations. <br>
