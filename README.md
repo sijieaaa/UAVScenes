@@ -56,6 +56,7 @@ We currently include:
 
 ## Baseline Code
 Under preparing. Please stay tuned.
+You are also welcome to use your custom train/test split for all tasks.
 
 ## Citation
 ```
